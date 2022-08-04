@@ -1,9 +1,8 @@
-I am an Associate Professor (without tenure) at the [Department of Economics](http://economics.harvard.edu/) at Harvard University. I graduated from UC Berkeley with a PhD in Economics in 2014. 
+I am a Sr. Research Associate at [PGRP](https://sites.google.com/ucsd.edu/pgrp/home) at J-PAL South Asia. I graduated from Delhi School of Economics with an M.A. in Economics in 2019. 
 
-My research tries to bring insights from psychology to bear on topics in economics, particularly topics relevant to developing countries. Recent projects include studying how improving sleep affects the economic outcomes of workers in India, how the endowment effect influences consumer demand for collateralized loans in Kenya, how research findings affect the beliefs and policy choices of mayors in Brazil, and how mixing rich and poor students in schools in India affects social preferences and behaviors.
+My interest is in studying how pschological thinking changes an economic agent behaviour and equilibrium in general, particularly topics relevant to the development economics. Recent project include how many-to-one peer group councelling of pregnant mother and lactating women affect their and their child's health, how financial inclusion of female leads to change in the household welfare, how political party use public project assignment into their election winning strategies. 
 
-Together with Frank Schilbach and Heather Schofield, I help run the [Behavioral Development Lab](https://behavioraldevlab.org/index.html) in India. I am a Faculty Research Fellow at the National Bureau of Economic Research (NBER), and a faculty affiliate at the The Abdul Latif Jameel Poverty Action Lab (JPAL). From 2018 to 2020, I served as an Associate Editor at the Journal of Political Economy.
+I previously worked as a Research Fellow at Verghese Kurien Policy Lab (VKPL) at the Institute of Rural Management Anand. My research interest is in development economics, political economy, and behavioral economics. Prior joining to VKPL at IRMA, I was a research associate at Indian Statistical Institute, Delhi. 
 
-__[Curriculum Vitae](/pdf/Rao_CV_latest.pdf")__ (Updated July 2022)
+__[Curriculum Vitae](/pdf/singh_CV_latest.pdf")__ (Updated July 2022)
 
-__[Research Statement](/pdf/Rao Research Statement.pdf")__ 
