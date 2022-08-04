@@ -1,14 +1,13 @@
-__Email__: [grao@fas.harvard.edu](grao@fas.harvard.edu)  
-__Tel__: +1 (857) 998-4505  
+__Email__: [Personal](singh.harpreetsingh511@gmail.com) [Professional](hasingh@povertyactionlab.org)  
+__Tel__: +91 8441806645 
 __Address__:  
-Department of Economics  
-Littauer Center M-30, Harvard University  
-Cambridge, MA 02138  
-U.S.A.  
+J-PAL South Asia
+Bhubaneswar
+India
 
-__Teaching__ (Spring 2021)  
-Econ 2338: Behavioral Development Economics   
-Econ 980: Behavioral Economics of Poverty and Development (junior seminar)
+__Teaching__   
+Stata workshop: Stata for field experiment in social sciences course at IRMA in 2021
+Stata workshop: Stata for impact evaluation course at IRMA in 2022   
 
 __[Information](/info_for_potential)__ for (potential) advisees
 
