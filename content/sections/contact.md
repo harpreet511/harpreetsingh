@@ -1,4 +1,4 @@
-__Email__: [Personal](singh.harpreetsingh511@gmail.com) [Professional](hasingh@povertyactionlab.org)  
+__Email__: [Personal](singh.harpreetsingh511@gmail.com), [Professional](hasingh@povertyactionlab.org)  
 __Tel__: +91 8441806645 
 __Address__:  
 J-PAL South Asia
